@@ -1,0 +1,34 @@
+body {
+    background-color: #f0f2f5;
+  }
+  
+  h1 {
+    color: #007bff;
+    font-size: 2.8rem;
+  }
+  
+  button {
+    font-size: 1.1rem;
+    padding: 0.6rem 1.5rem;
+  }
+  
+  #filterDisplay {
+    background-color: #ffffff;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  #selectedFiltersList {
+    max-width: 500px;
+  }
+  
+  .modal-content {
+    border-radius: 12px;
+  }
+  
+  .modal-title {
+    font-weight: bold;
+    color: #007bff;
+  }
+  
